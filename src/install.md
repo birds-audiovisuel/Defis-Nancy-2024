@@ -19,9 +19,9 @@ Si vous utilisez un ordinateur que nous vous avons fourni, veuillez passer direc
   <blockquote style="border-left: 5px solid Green; color:Green;">
     <details>
       <summary><span style='font-size:20px;'>&#128248; </span><span style="font-weight: bold; text-decoration: underline;">Procédure d'installation :</span><span style="color:DarkViolet; font-weight: bold;"> Python 3.12.7</span></summary>
-      <span><img src="../assets/Instal_Python_0.png" alt="aperçu 1"></span>
-      <span><img src="../assets/Instal_Python_1.png" alt="aperçu 2"></span>
-      <span><img src="../assets/Instal_Python_3.png" alt="aperçu 3"></span>
+      <span><img src="./assets/Instal_Python_0.png" alt="aperçu 1"></span>
+      <span><img src="./assets/Instal_Python_1.png" alt="aperçu 2"></span>
+      <span><img src="./assets/Instal_Python_3.png" alt="aperçu 3"></span>
     </details>
   </blockquote>
 <br>
@@ -63,7 +63,7 @@ python -m rsk.game_controller -s
 
 Après avoir exécuté la commande, la page suivante devrait s'afficher :
 
-![image.png](../assets/image.png)
+![image.png](./assets/image.png)
 
 ## Félicitations tu es prêt !
 [Passe à la suite !](./Attaquant.md)
